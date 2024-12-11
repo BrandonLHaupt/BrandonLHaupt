@@ -13,9 +13,9 @@ https://www.linkedin.com/in/brandon-haupt/
 💻 Tech Stack:
 !CSS3 !HTML5 !JavaScript !Bootstrap !jQuery !NPM !React !React Router !SASS !Vue.js !MongoDB     !Figma
 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BrandonHaupt&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=BrandonHaupt&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonHaupt&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=BrandonLHaupt&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BrandonLHaupt&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonLHaupt&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
