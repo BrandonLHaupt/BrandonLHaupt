@@ -13,7 +13,7 @@ https://www.linkedin.com/in/brandon-haupt/
 💻 Tech Stack:
 !CSS3 !HTML5 !JavaScript !Bootstrap !jQuery !NPM !React !React Router !SASS !Vue.js !MongoDB     !Figma
 📊 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=BrandonLHaupt)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=BrandonLHaupt&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
