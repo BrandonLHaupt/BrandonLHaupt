@@ -12,13 +12,13 @@ https://www.linkedin.com/in/brandon-haupt/
 
 💻 Tech Stack:
 
-📊 GitHub Stats:
+📊 GitHub Stats:</br>
 [![GitHub Streak](https://streak-stats.demolab.com?user=BrandonLHaupt&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-😂 Random Dev Meme<br/>
+😂 Random Dev Meme</br>
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
